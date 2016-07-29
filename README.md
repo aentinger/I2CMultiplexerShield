@@ -1,7 +1,7 @@
 LXRobotics P19 I2C Multiplexer Shield
 ==============
 
-![LXRobotics P19 I2C Multiplexer Shield](https://www.lxrobotics.com/wp-content/uploads/mz_product_page_i2c_multiplexer_shield_side_small.jpg)
+![LXRobotics P19 I2C Multiplexer Shield](https://www.lxrobotics.com/wp-content/uploads/mz_product_page_i2c_multiplexer_shield_top_small.jpg)
 
 ## Weitere Informationen / Further Information
 
