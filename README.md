@@ -6,7 +6,7 @@
 
 # 📸 Image
 
-![LXRobotics P19 I2C Multiplexer Shield](https://raw.githubusercontent.com/lxrobotics/I2CMultiplexerShield/master/images/i2c-multiplexer-shield-side-small.jpg)
+![LXRobotics P19 I2C Multiplexer Shield](images/i2c-multiplexer-shield-side-small.jpg)
 
 # 📂 Description
 
